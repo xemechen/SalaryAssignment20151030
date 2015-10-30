@@ -1,0 +1,8 @@
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\SalaryCheck\bin\Debug\SalaryCheck.exe.config
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\SalaryCheck\obj\Debug\SalaryCheck.csprojResolveAssemblyReference.cache
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\SalaryCheck\bin\Debug\SalaryCheck.exe
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\SalaryCheck\bin\Debug\SalaryCheck.pdb
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\SalaryCheck\obj\Debug\SalaryCheck.exe
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\SalaryCheck\obj\Debug\SalaryCheck.pdb
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\SalaryCheck\bin\Debug\EmployeeLibrary.dll
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\SalaryCheck\bin\Debug\EmployeeLibrary.pdb

@@ -1,0 +1,4 @@
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
