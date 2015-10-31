@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using EmployeeLibrary;
+using MathLibrary;
 
 namespace SalaryCheck
 {
@@ -31,6 +32,18 @@ namespace SalaryCheck
             employee.BaseSalary=bsalary;
             Console.WriteLine(employee.FirstName+" "+employee.LastName+
                 ", your total income is " + employee.Salary+".");
+
+            
+            MathLibrary.Vector a = new MathLibrary.Vector(3, 4);
+            MathLibrary.Vector b = new MathLibrary.Vector(1, 14);
+            a.Add(b);
+            Vector c = new Vector(1,2);
+            a.Minus(3, 3).Add(new Vector (2, 6))
+                .Minus(4, 2);
+
+            // Vector d = a.Minus(b); //void cant to vector
+            Console.WriteLine("{0} , {1}", c.X,c.Y);
+             
 
         }
     }

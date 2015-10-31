@@ -1,0 +1,5 @@
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\MathLibrary\obj\Debug\MathLibrary.csprojResolveAssemblyReference.cache
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\MathLibrary\bin\Debug\MathLibrary.dll
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\MathLibrary\bin\Debug\MathLibrary.pdb
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\MathLibrary\obj\Debug\MathLibrary.dll
+c:\users\yuyingchen\documents\visual studio 2013\Projects\SalaryAssignment20151030\MathLibrary\obj\Debug\MathLibrary.pdb
